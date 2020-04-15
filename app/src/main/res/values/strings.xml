@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Book Recommender</string>
+    <string name="book_read_status">Book Read Status:</string>
+    <string name="book_unread">Book Unread</string>
+    <string name="book_read">Book Read</string>
+    <string name="author_name">Author Name</string>
+    <string name="book_name">Book Name</string>
+</resources>
